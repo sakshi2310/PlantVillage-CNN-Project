@@ -3,7 +3,7 @@
 📖 Description
 PlantVillage is a collection of leaf images from different crops, showing both healthy and diseased leaves. It is used to train machine learning models for plant disease detection.
 
-Contents
+Contents\n
 Total Images: ~54,303
 Crops: 14 types (e.g., Tomato, Potato, Corn, Apple)
 Classes: 38 (crop × disease combinations, including healthy)
